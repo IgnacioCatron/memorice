@@ -1,0 +1,21 @@
+.header {
+
+  justify-content: space-between;
+
+  margin-bottom: 20px;
+}
+
+.header h1 {
+  margin: auto;
+}
+
+.stats {
+
+  gap: 20px;
+}
+
+button {
+  padding: 10px 20px;
+  font-size: 16px;
+  cursor: pointer;
+}
